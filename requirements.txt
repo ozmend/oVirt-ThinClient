@@ -1,0 +1,5 @@
+ovirt-engine-sdk-python==4.2.9
+pycurl==7.43.0.2
+PyQt5==5.11.3
+PyQt5-sip==4.19.13
+six==1.11.0
